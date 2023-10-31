@@ -1,2 +1,3 @@
-# Random-map
-Additional code for a series of articles in the telegram channel https://t.me/bredachv
+# Случайные карты
+Это код для алгоритмов генерации случайных карты, описанных в серии постов в телеграм канале https://t.me/bredachv .
+Для каждого алгоритма своя папка, новые алгоритмы будут появляться по мере выхода постов.
